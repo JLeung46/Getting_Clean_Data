@@ -64,6 +64,8 @@ fBodyGyroMag
 
 fBodyGyroJerkMag
 
+
+
 The set of variables that were estimated from these signals are: 
 
 mean(): Mean value
@@ -119,6 +121,7 @@ each id to the appropriate label (activity_labels.txt).
 ##Tidy Dataset
 
 Contains 180 observations with 81 variables which includes:
+
 	*Subject ID: A unique identifier assigned to each subject (1-30)
 	*Activity Label: (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 	*Feature Vector: 
