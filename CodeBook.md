@@ -122,9 +122,9 @@ each id to the appropriate label (activity_labels.txt).
 
 Contains 180 observations with 81 variables which includes:
 
-	*Subject ID: A unique identifier assigned to each subject (1-30)
-	*Activity Label: (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
-	*Feature Vector: 
+	* Subject ID: A unique identifier assigned to each subject (1-30)
+	* Activity Label: (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+	* Feature Vector: 
 	
 "timeBodyAccelerationMeanX"                                  
 "timeBodyAccelerationMeanY"                                  
@@ -209,7 +209,7 @@ Contains 180 observations with 81 variables which includes:
 Values represent averages grouped by activity and subject 
 
 
-###References
+#####References
 
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a 
 Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
